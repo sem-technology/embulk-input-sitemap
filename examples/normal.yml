@@ -1,0 +1,5 @@
+in:
+  type: sitemap
+  url: https://sem-technology.info/sitemap.xml
+out:
+  type: stdout
